@@ -33,6 +33,10 @@ h2 {
   border-radius: 15px;
 }
 
+#btn-profile:hover {
+  background-color: grey;
+}
+
 .card {
   background: white;
   padding: 25px;
